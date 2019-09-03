@@ -24,3 +24,15 @@ input {
   border-radius: 2px;
   margin: 2px;
 }
+
+input[type=submit] {
+  background-color: white;
+}
+
+hr {
+  width: 60%;
+}
+
+p {
+  font-weight: bold;
+}

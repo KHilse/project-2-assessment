@@ -2,7 +2,9 @@
   "development": {
     "database": "unit2_assessment",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "postgres",
+    "username": "postgres",
+    "password": "postgres"
   },
   "test": {
     "database": "unit2_assessment",

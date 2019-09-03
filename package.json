@@ -1,7 +1,7 @@
 {
   "name": "unit2-assessment",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repo contains the starter code for the [assessment of Node, Express, and PostgreSQL](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-2-assessment.md) knowledge that students will complete following unit 2 of the Software Engineering Immersive course.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,14 @@
     "method-override": "^3.0.0",
     "pg": "^7.11.0",
     "sequelize": "^5.9.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDI-SEA/project-2-assessment.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/WDI-SEA/project-2-assessment/issues"
+  },
+  "homepage": "https://github.com/WDI-SEA/project-2-assessment#readme"
 }
