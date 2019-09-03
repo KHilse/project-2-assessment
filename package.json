@@ -1,5 +1,5 @@
 {
-  "name": "unit2-assessment",
+  "name": "wacky-widgets",
   "version": "1.0.0",
   "description": "This repo contains the starter code for the [assessment of Node, Express, and PostgreSQL](https://github.com/WDI-SEA/wdi_assessments/blob/master/project_assessments/project-2-assessment.md) knowledge that students will complete following unit 2 of the Software Engineering Immersive course.",
   "main": "server.js",
